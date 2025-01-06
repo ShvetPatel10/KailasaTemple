@@ -101,14 +101,14 @@ nav a:hover {
 .about {
     background-color:#9F5326;
     opacity: 0.9;
+    border-right: 0.125rem solid white;
+    border-left: 0.125rem solid white;
 }
 
 .about img {
     width: 35%;
     max-width: 100%;
     text-align: center;
-    border-right: 0.125rem solid white;
-    border-left: 0.125rem solid white;
 }
 
 .history {
