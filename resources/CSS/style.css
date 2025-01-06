@@ -144,7 +144,8 @@ footer {
 
 @media screen and (max-width: 480px) {
     body {
-        background-color: black;
+        background-image: none;
+        background-color: lightslategray;
     }
     
     header {
