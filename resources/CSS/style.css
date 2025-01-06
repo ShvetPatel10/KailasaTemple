@@ -56,8 +56,6 @@ p {
 div {
     margin: 4rem;
     padding: 1rem;
-    border-right: 0.125rem solid white;
-    border-left: 0.125rem solid white;
 }
 
 nav {
@@ -109,16 +107,22 @@ nav a:hover {
     width: 35%;
     max-width: 100%;
     text-align: center;
+    border-right: 0.125rem solid white;
+    border-left: 0.125rem solid white;
 }
 
 .history {
     background-color:#5F3116;
     opacity: 0.9;
+    border-right: 0.125rem solid white;
+    border-left: 0.125rem solid white;
 }
 
 .arch {
     background-color:#3F1F0D;
     opacity: 0.9;
+    border-right: 0.125rem solid white;
+    border-left: 0.125rem solid white;
 }
 
 .arch img {
@@ -130,6 +134,8 @@ nav a:hover {
 .legend {
     background-color:#CC9300;
     opacity: 0.9;
+    border-right: 0.125rem solid white;
+    border-left: 0.125rem solid white;
 }
 
 footer {
