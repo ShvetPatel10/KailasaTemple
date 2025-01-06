@@ -93,6 +93,7 @@ nav a {
     color: white;
     font-family: "Tillana";
     text-decoration: none;
+    transition: color 200ms ease-in 200ms;
 }
 
 nav a:hover {
